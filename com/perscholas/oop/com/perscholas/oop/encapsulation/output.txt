@@ -1,0 +1,1 @@
+Person has 68.0 kgs and is 1.65 meters in height, which results in BMI of 24.977045
